@@ -1,0 +1,6 @@
+namespace Shops;
+
+public class 
+{
+    
+}

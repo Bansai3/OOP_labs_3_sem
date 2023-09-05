@@ -1,0 +1,35 @@
+{
+  "RestorePoints": [
+    {
+      "Objects": [
+        {
+          "Path": "/root/dotnet/Zip2/A.txt",
+          "Title": "A.txt"
+        },
+        {
+          "Path": "/root/dotnet/Zip2/B.txt",
+          "Title": "B.txt"
+        },
+        {
+          "Path": "/root/dotnet/Zip2/B.txt",
+          "Title": "B.txt"
+        }
+      ]
+    }
+  ],
+  "Objects": [
+    {
+      "Path": "/root/dotnet/Zip2/A.txt",
+      "Title": "A.txt"
+    },
+    {
+      "Path": "/root/dotnet/Zip2/B.txt",
+      "Title": "B.txt"
+    },
+    {
+      "Path": "/root/dotnet/Zip2/B.txt",
+      "Title": "B.txt"
+    }
+  ],
+  "Title": "Task"
+}

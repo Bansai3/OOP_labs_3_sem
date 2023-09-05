@@ -1,0 +1,138 @@
+-------------------------
+New restore point created
+Restore point:
+Creation time: 2022:12:10:12:8:39
+Backup objects that restore point contains:
+1. BackupObject:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+New restore point added
+Backup:
+Restore points that backup contains:
+1. Restore point:
+Creation time: 2022:12:10:12:8:39
+Backup objects that restore point contains:
+1. BackupObject:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+Storage created
+MultipleStorage:
+Storages that multiple storage contains:
+1. SingleBackupObjectStorage:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. SingleBackupObjectStorage:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. SingleBackupObjectStorage:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+Storage added to repository
+---------------------------
+-------------------------
+New restore point created
+Restore point:
+Creation time: 2022:12:10:12:58:35
+Backup objects that restore point contains:
+1. BackupObject:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+New restore point added
+Backup:
+Restore points that backup contains:
+1. Restore point:
+Creation time: 2022:12:10:12:58:35
+Backup objects that restore point contains:
+1. BackupObject:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+Storage created
+MultipleStorage:
+Storages that multiple storage contains:
+1. SingleBackupObjectStorage:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. SingleBackupObjectStorage:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. SingleBackupObjectStorage:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+Storage added to repository
+---------------------------
+-------------------------
+New restore point created
+Restore point:
+Creation time: 2022:12:28:21:30:12
+Backup objects that restore point contains:
+1. BackupObject:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+New restore point added
+Backup:
+Restore points that backup contains:
+1. Restore point:
+Creation time: 2022:12:28:21:30:12
+Backup objects that restore point contains:
+1. BackupObject:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. BackupObject:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+Storage created
+MultipleStorage:
+Storages that multiple storage contains:
+1. SingleBackupObjectStorage:
+Title: A.txt
+Path: /root/dotnet/Zip2/A.txt
+2. SingleBackupObjectStorage:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+3. SingleBackupObjectStorage:
+Title: B.txt
+Path: /root/dotnet/Zip2/B.txt
+
+Storage added to repository
+---------------------------
